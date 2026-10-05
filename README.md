@@ -105,7 +105,7 @@ done.
 
 显的没事打一打 ACM，结果上来一道题就不会做（）。
 
-![img](https://img2024.cnblogs.com/blog/3585830/202610/3585830-20261005211906226-1139315754.png)
+![img](imgimg.png)
 
 总的来说，这题上来一个想不到的转化，然后就范德蒙德卷积加生成函数了（？？？这是第一题啊）：
 
@@ -132,5 +132,12 @@ $$
 
 彩蛋：这个密码是我 cs144 最新的 commit hash，因为计网确实很好玩。
 
-
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
